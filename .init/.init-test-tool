@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/vivid-portfolio-220278-220288/frontend_ui"
+}
